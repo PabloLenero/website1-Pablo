@@ -604,16 +604,11 @@ letter-spacing: 0.2em;
 font-family: 'Quicksand', serif;
 letter-spacing: 0.2em;
 }
+.past {margin-left: 500px;
+  font-family: 'Quicksand', serif;
+  color: #A1A0A0;
+ }
 
-
-  .animation
-  {margin-top: 170px;}
-
-  .past {margin-left: 500px;
-    font-family: 'Quicksand', serif;
-    color: #A1A0A0;
-   }
-
-   .mex1 { display:inline-flex;
-     font-family: 'Quicksand', serif;
-     color: #A1A0A0; }
+ .mex1 { display:inline-flex;
+   font-family: 'Quicksand', serif;
+   color: #A1A0A0; }
