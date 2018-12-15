@@ -236,7 +236,7 @@ body {
   z-index: -1;
   width: 100vw;
   height: 100vh;
-  background-image: url('assets/_DSC0024.JPG');
+  background-image: url('assets/Contact.JPG');
   background-size: cover;
   background-position: center;
   animation-duration: 3s;
@@ -587,7 +587,7 @@ position: absolute;
 {margin-left: 800px;
 margin-top: 100px;}
 
-.upcoming_performances h1 
+.upcoming_performances h1
 {color: white;
 font-family: 'Quicksand', serif;
 letter-spacing: 0.2em;
