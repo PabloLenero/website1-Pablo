@@ -569,3 +569,11 @@ letter-spacing: 0.2em;
 font-family: 'Quicksand', serif;
 letter-spacing: 0.2em;
 }
+
+.performance { margin-left:500px;
+font-family:'Quicksand', serif;
+color:#A1A0A0;}
+
+.mex{font-family:'Quicksand', serif;
+color:#A1A0A0;
+display: inline-flex;}
